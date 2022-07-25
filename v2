@@ -228,7 +228,7 @@ Tab3:Label("Player Scripts")
 
 game.StarterGui:SetCore("SendNotification", {
     Title = "DYKUWARE";
-    Text = "Welcome";
+    Text = "welcome nigger";
     Icon = "RBXID OR BLANK";
     Duration = "DURATION IN SECONDS";
     callbakc = bindableFunction;
